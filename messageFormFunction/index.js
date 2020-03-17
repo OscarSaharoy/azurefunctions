@@ -1,5 +1,5 @@
 
-var API_KEY = "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";
+var API_KEY = "secret!";
 
 module.exports = async function (context, req) {
     
